@@ -1,39 +1,57 @@
-# 🏆 IBM Certifications | Holberton School
+# IBM Certifications | Holberton School France
 
-I am a Aspiring Web Developer student at **Holberton School France**, where I earned **IBM SkillsBuild certifications** focused on **Agile methodologies** and **Open Source development**.
+This repository showcases my IBM SkillsBuild badges and certificates completed during my training at Holberton School France.
 
-These certifications validate both my **technical foundations** and my ability to work in **modern, collaborative development environments**, supported by **IBM**.
+## About
 
----
+The goal of this repository is to centralize verified learning achievements related to:
 
-## 🎓 Certifications
+- Agile practices
+- Open source foundations
+- Project management
+- SQL fundamentals
 
-* **Agile Explorer** *(2026)*
-  Fundamentals of Agile values, Scrum framework, team roles, and iterative delivery.
+## Repository Structure
 
-* **Open Source Software** *(2026)*
-  Open-source culture, licensing, community collaboration, and Git/GitHub best practices.
+The certifications are organized by trimester:
 
----
+- `certificates-trimester-1/`
+  - `IBM_Badge/`
+  - `IBM_Certificate/`
+- `certificates-trimester-2/`
 
-## 🛠️ Skills
+## Certifications and Badges
 
-* Agile & Scrum fundamentals
-* Open Source contribution workflows
-* Git & GitHub
-* Team collaboration & iterative development
-* Software development best practices
+### Trimester 1
 
----
+IBM badges:
 
-## 📁 Repository Content
+- [Agile Explorer Badge](certificates-trimester-1/IBM_Badge/Badge_Agile_Explorer.pdf)
+- [Open Source Foundations Badge](certificates-trimester-1/IBM_Badge/Badge_Open_Source_Foundations.pdf)
 
-This repository contains:
+IBM certificates:
 
-* 📄 Certificates and digital badges
-* 📝 Learning notes
-* 💻 Exercises and hands-on lab work
+- [Agile Explorer Certificate](certificates-trimester-1/IBM_Certificate/Certificate%20_%20Agile_Explorer.pdf)
+- [IBM SkillsBuild Certificate](certificates-trimester-1/IBM_Certificate/Certificate_IBM_SkillsBuild.pdf)
 
----
+### Trimester 2
 
-📌 **Purpose**: Showcase verified skills, continuous learning, and readiness for professional software development teams.
+- [Project Management Certificate](certificates-trimester-2/certificate-project-management-1.pdf)
+- [SQL Certificate](certificates-trimester-2/certificate-sql.pdf)
+
+## Skills Demonstrated
+
+- Agile and Scrum fundamentals
+- Open source collaboration workflows
+- Git and GitHub usage
+- Project planning and execution basics
+- SQL and database querying basics
+
+## Purpose
+
+This repository serves as a portfolio of validated certificates and continuous learning progress.
+
+## ✍️ Author
+
+Holberton School Student   
+[David Roset](https://github.com/DevEchoFR)
